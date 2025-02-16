@@ -1,0 +1,248 @@
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Nexus 2.0.csproj.AssemblyReference.cache
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\MainWindow.baml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\MainWindow.g.cs
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Pages\DllPage.g.cs
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Pages\EonHomePage.g.cs
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Pages\HomePage.g.cs
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Pages\SettingsPage.g.cs
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Pages\MultiplayerPage.g.cs
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\App.g.cs
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Nexus 2.0_MarkupCompile.cache
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Nexus 2.0_MarkupCompile.lref
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\FASM-LICENSE.TXT
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\FASM.DLL
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\FASMX64.DLL
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Reloaded.Assembler.targets
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Nexus 2.0.exe.config
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Nexus 2.0.exe
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Nexus 2.0.pdb
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\INIFileParser.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Microsoft.Bcl.Cryptography.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Microsoft.Win32.SystemEvents.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Newtonsoft.Json.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\PeNet.Asn1.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\PeNet.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Reloaded.Assembler.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Reloaded.Injector.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Reloaded.Memory.Buffers.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Reloaded.Memory.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Buffers.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.CodeDom.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Data.Odbc.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Data.OleDb.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Data.SqlClient.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Diagnostics.EventLog.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Diagnostics.PerformanceCounter.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Drawing.Common.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Formats.Asn1.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.IO.FileSystem.AccessControl.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.IO.Packaging.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.IO.Pipes.AccessControl.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.IO.Ports.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Memory.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Numerics.Vectors.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Security.AccessControl.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Security.Cryptography.Cng.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Security.Cryptography.Pkcs.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Security.Cryptography.Xml.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Security.Permissions.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ServiceModel.Duplex.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ServiceModel.Http.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ServiceModel.NetTcp.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ServiceModel.Primitives.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ServiceModel.Security.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ServiceModel.Syndication.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ServiceProcess.ServiceController.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Threading.AccessControl.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ValueTuple.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Web.Services.Description.dll
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\INIFileParser.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Microsoft.Bcl.Cryptography.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Microsoft.Win32.Registry.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Microsoft.Win32.SystemEvents.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Newtonsoft.Json.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Reloaded.Assembler.pdb
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Reloaded.Assembler.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Reloaded.Injector.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Reloaded.Memory.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\Reloaded.Memory.Buffers.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Buffers.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.CodeDom.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Data.Odbc.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Data.OleDb.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Data.SqlClient.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Diagnostics.EventLog.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Diagnostics.PerformanceCounter.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Drawing.Common.pdb
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Drawing.Common.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Formats.Asn1.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.IO.FileSystem.AccessControl.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.IO.Packaging.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.IO.Ports.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Memory.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Numerics.Vectors.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Security.AccessControl.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Security.Cryptography.Cng.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Security.Cryptography.Pkcs.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Security.Cryptography.ProtectedData.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Security.Cryptography.Xml.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Security.Permissions.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ServiceModel.Duplex.pdb
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ServiceModel.Http.pdb
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ServiceModel.NetTcp.pdb
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ServiceModel.Primitives.pdb
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ServiceModel.Security.pdb
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ServiceModel.Syndication.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ServiceProcess.ServiceController.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Text.Encoding.CodePages.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Threading.AccessControl.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.ValueTuple.xml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\bin\Release\System.Web.Services.Description.pdb
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Pages\DllPage.baml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Pages\EonHomePage.baml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Pages\HomePage.baml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Pages\SettingsPage.baml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Pages\MultiplayerPage.baml
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Nexus 2.0.g.resources
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Nexus_2._0.Properties.Resources.resources
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Nexus 2.0.csproj.GenerateResource.cache
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Nexus 2.0.csproj.CoreCompileInputs.cache
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Nexus 2.0.csproj.Up2Date
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Nexus 2.0.exe
+C:\Users\EGATOR6\Documents\GitHub\Nexus-2.0\obj\Release\Nexus 2.0.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\FASM-LICENSE.TXT
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\FASM.DLL
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\FASMX64.DLL
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Reloaded.Assembler.targets
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Nexus 2.0.exe.config
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Nexus 2.0.exe
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Nexus 2.0.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\INIFileParser.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Microsoft.Bcl.Cryptography.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Microsoft.Win32.SystemEvents.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Newtonsoft.Json.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\PeNet.Asn1.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\PeNet.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Reloaded.Assembler.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Reloaded.Injector.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Reloaded.Memory.Buffers.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Reloaded.Memory.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Buffers.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.CodeDom.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Data.Odbc.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Data.OleDb.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Data.SqlClient.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Diagnostics.EventLog.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Drawing.Common.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Formats.Asn1.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.IO.FileSystem.AccessControl.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.IO.Packaging.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.IO.Pipes.AccessControl.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.IO.Ports.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Memory.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Numerics.Vectors.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Security.AccessControl.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Security.Cryptography.Cng.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Security.Cryptography.Pkcs.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Security.Cryptography.Xml.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Security.Permissions.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ServiceModel.Duplex.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ServiceModel.Http.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ServiceModel.NetTcp.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ServiceModel.Primitives.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ServiceModel.Security.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ServiceModel.Syndication.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ServiceProcess.ServiceController.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Threading.AccessControl.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ValueTuple.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Web.Services.Description.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\INIFileParser.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Microsoft.Bcl.Cryptography.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Microsoft.Win32.Registry.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Microsoft.Win32.SystemEvents.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Newtonsoft.Json.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Reloaded.Assembler.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Reloaded.Assembler.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Reloaded.Injector.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Reloaded.Memory.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\Reloaded.Memory.Buffers.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Buffers.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.CodeDom.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Data.Odbc.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Data.OleDb.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Data.SqlClient.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Diagnostics.EventLog.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Diagnostics.PerformanceCounter.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Drawing.Common.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Drawing.Common.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Formats.Asn1.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.IO.FileSystem.AccessControl.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.IO.Packaging.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.IO.Ports.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Memory.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Numerics.Vectors.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Security.AccessControl.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Security.Cryptography.Cng.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Security.Cryptography.Pkcs.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Security.Cryptography.ProtectedData.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Security.Cryptography.Xml.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Security.Permissions.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ServiceModel.Duplex.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ServiceModel.Http.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ServiceModel.NetTcp.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ServiceModel.Primitives.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ServiceModel.Security.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ServiceModel.Syndication.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ServiceProcess.ServiceController.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Text.Encoding.CodePages.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Threading.AccessControl.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.ValueTuple.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\bin\Release\System.Web.Services.Description.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\Nexus 2.0.csproj.AssemblyReference.cache
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\MainWindow.baml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\MainWindow.g.cs
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\Pages\HomePage.g.cs
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\Pages\SettingsPage.g.cs
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\App.g.cs
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\Nexus 2.0_MarkupCompile.cache
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\Nexus 2.0_MarkupCompile.lref
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\Pages\HomePage.baml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\Pages\SettingsPage.baml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\Nexus 2.0.g.resources
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\Nexus_2._0.Properties.Resources.resources
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\Nexus 2.0.csproj.GenerateResource.cache
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\Nexus 2.0.csproj.CoreCompileInputs.cache
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\Nexus 2.0.csproj.Up2Date
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\Nexus 2.0.exe
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-2.0\obj\Release\Nexus 2.0.pdb

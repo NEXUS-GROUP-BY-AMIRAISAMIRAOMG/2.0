@@ -1,0 +1,14 @@
+{
+    "BackgroundColor": "#000000",
+    "ForegroundColor": "#FFFFFF",
+    "ButtonBackground": "#1A1A1A",
+    "ButtonBorderBrush": "#333333",
+    "ButtonForeground": "#FFFFFF",
+    "HoverBackground": "#262626",
+    "PressedBackground": "#404040",
+    "PanelBackground": "#0D0D0D",
+    "FooterBackground": "#1A1A1A",
+    "LabelForeground": "#B3B3B3",
+    "LabelHighlightForeground": "#E6E6E6",
+    "TitleBarColor": "#141414"
+}
