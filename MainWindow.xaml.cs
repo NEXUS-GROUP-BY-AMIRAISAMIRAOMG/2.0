@@ -45,7 +45,7 @@ namespace Nexus_2._0
         private void SetTitleBarColor(Color color)
         {
             IntPtr hwnd = new WindowInteropHelper(this).Handle;
-            int attr = 35; // DWMWA_CAPTION_COLOR (Windows 11) or 19 (Windows 10)
+            int attr = 35;
             int colorValue = (color.R << 16) | (color.G << 8) | color.B;
 
             DwmSetWindowAttribute(hwnd, attr, ref colorValue, sizeof(int));
@@ -65,12 +65,11 @@ namespace Nexus_2._0
             {
                 Filter = "DLL Files (*.dll)|*.dll",
                 Title = "Select a DLL File",
-                Multiselect = true // Allow multiple selections
+                Multiselect = true
             };
 
             if (openFileDialog.ShowDialog() == true)
             {
-                // Join multiple DLL paths into a single argument string, separated by commas
                 string dllPaths = string.Join(",", openFileDialog.FileNames.Select(path => $"\"{path}\""));
 
                 MessageBox.Show($"Selected DLL(s): {dllPaths}");
@@ -82,7 +81,7 @@ namespace Nexus_2._0
                         FileName = "Nexus-PreLoader.exe",
                         WorkingDirectory = @"Injector",
                         UseShellExecute = true,
-                        Arguments = dllPaths // Pass as a single argument
+                        Arguments = dllPaths
                     });
                 }
                 catch (Exception ex)

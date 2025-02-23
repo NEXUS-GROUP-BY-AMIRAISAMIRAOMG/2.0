@@ -1,0 +1,123 @@
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\FASM-LICENSE.TXT
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\FASM.DLL
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\FASMX64.DLL
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Reloaded.Assembler.targets
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Nexus 2.0.exe.config
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Nexus 2.0.exe
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Nexus 2.0.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\INIFileParser.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Microsoft.Win32.SystemEvents.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\PeNet.Asn1.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\PeNet.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Reloaded.Assembler.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Reloaded.Injector.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Reloaded.Memory.Buffers.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Reloaded.Memory.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Buffers.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.CodeDom.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Data.Odbc.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Data.OleDb.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Data.SqlClient.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Drawing.Common.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Formats.Asn1.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.IO.Packaging.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.IO.Pipes.AccessControl.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.IO.Ports.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Memory.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Security.AccessControl.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Security.Permissions.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Threading.AccessControl.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ValueTuple.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Web.Services.Description.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Transitionals.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\INIFileParser.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Reloaded.Assembler.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Reloaded.Assembler.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Reloaded.Injector.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Reloaded.Memory.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Reloaded.Memory.Buffers.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Buffers.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.CodeDom.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Data.Odbc.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Data.OleDb.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Drawing.Common.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Drawing.Common.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Formats.Asn1.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.IO.Packaging.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.IO.Ports.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Memory.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Security.Permissions.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.ValueTuple.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\System.Web.Services.Description.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\bin\Debug\Transitionals.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\Nexus 2.0.csproj.AssemblyReference.cache
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\MainWindow.baml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\MainWindow.g.cs
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\Pages\HomePage.g.cs
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\App.g.cs
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\Nexus 2.0_MarkupCompile.cache
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\Nexus 2.0_MarkupCompile.lref
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\Pages\HomePage.baml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\Pages\SettingsPage.baml
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\Nexus 2.0.g.resources
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\Nexus_2._0.Properties.Resources.resources
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\Nexus 2.0.csproj.GenerateResource.cache
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\Nexus 2.0.csproj.CoreCompileInputs.cache
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\Nexus 2.0.csproj.Up2Date
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\Nexus 2.0.exe
+C:\Users\PinkW\Desktop\Repos\NEXUS\2.0\obj\Debug\Nexus 2.0.pdb

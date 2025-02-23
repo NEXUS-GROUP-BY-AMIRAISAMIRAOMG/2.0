@@ -1,34 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\",
+  "WorkspaceRootPath": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|c:\\users\\pinkw\\desktop\\repos\\nexus\\nexus-2.0\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\pages\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|solutionrelative:pages\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\utilites\\themes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|solutionrelative:utilites\\themes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|solutionrelative:pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\pages\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|solutionrelative:pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\pages\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|solutionrelative:pages\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|solutionrelative:pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\pages\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|solutionrelative:pages\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1833380B-68AC-49B1-BA33-BFEC0FD6D49F}|Nexus 2.0.csproj|solutionrelative:pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,88 +50,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Themes.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\Utilites\\Themes.cs",
-              "RelativeDocumentMoniker": "Utilites\\Themes.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\Utilites\\Themes.cs",
-              "RelativeToolTip": "Utilites\\Themes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T05:31:13.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SettingsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\Pages\\SettingsPage.xaml",
-              "RelativeDocumentMoniker": "Pages\\SettingsPage.xaml",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\Pages\\SettingsPage.xaml",
-              "RelativeToolTip": "Pages\\SettingsPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-15T01:23:12.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SettingsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\Pages\\SettingsPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\SettingsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\Pages\\SettingsPage.xaml.cs",
-              "RelativeToolTip": "Pages\\SettingsPage.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T01:14:38.449Z",
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-02-18T13:15:59.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "HomePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\Pages\\HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\Pages\\HomePage.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\HomePage.xaml.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\Pages\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\Pages\\HomePage.xaml.cs",
               "RelativeToolTip": "Pages\\HomePage.xaml.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAIA6wGEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAjwGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T22:56:06.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T22:56:06.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAKEAAAAAAAAAAAAuwNcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T22:54:26.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\MainWindow.xaml*",
-              "RelativeToolTip": "MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-13T22:46:11.78Z",
               "EditorCaption": ""
@@ -127,14 +109,72 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-18T13:15:22.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-18T13:14:43.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-18T13:13:45.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\Pages\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\SettingsPage.xaml",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\Pages\\SettingsPage.xaml",
+              "RelativeToolTip": "Pages\\SettingsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-15T01:23:12.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\Pages\\SettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\SettingsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\Pages\\SettingsPage.xaml.cs",
+              "RelativeToolTip": "Pages\\SettingsPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:14:38.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\Pages\\HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\Pages\\HomePage.xaml",
               "RelativeDocumentMoniker": "Pages\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-2.0\\Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\2.0\\Pages\\HomePage.xaml",
               "RelativeToolTip": "Pages\\HomePage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-13T22:37:18.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T22:37:18.006Z"
             }
           ]
         }

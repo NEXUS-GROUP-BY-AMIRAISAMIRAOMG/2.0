@@ -49,57 +49,55 @@
             <Setter Property="BorderBrush" Value="{DynamicResource BorderBrush}"/>
         </Style>
     </Window.Resources>
-    <t:TransitionContainer x:Name="TransitionContainer" Transition="SlideRight">
-        <Canvas x:Name="Main" Margin="0,0,0,-6" Background="{DynamicResource BackgroundColor}">
+    <Canvas x:Name="Main" Margin="0,0,0,-6" Background="{DynamicResource BackgroundColor}">
 
-          <!-- Image Panel -->
-          <Border CornerRadius="0,20,20,0" Background="{DynamicResource PanelBackground}" Padding="5" Canvas.Top="18" HorizontalAlignment="Left" VerticalAlignment="Center" Width="317">
-              <StackPanel/>
-          </Border>
-  
-          <!-- Core FN Button -->
-          <Border CornerRadius="0,10,10,0" Background="{DynamicResource PanelBackground}" Padding="5,5,5,5" Canvas.Top="598" HorizontalAlignment="Center" VerticalAlignment="Top" Width="269">
-              <StackPanel>
-                  <Button x:Name="CoreFN" Content="Nexus Website" Height="42" BorderBrush="{x:Null}" Margin="5,5,5,5" Foreground="{DynamicResource ButtonForeground}" Background="{DynamicResource ButtonBackground}" MouseEnter="Button_MouseEnter_7" MouseLeave="CoreFN_MouseLeave" Click="CoreFN_Click"/>
-              </StackPanel>
-          </Border>
-  
-          <!-- Settings, News, Plugins -->
-          <Border CornerRadius="0,10,10,0" Background="{DynamicResource PanelBackground}" Padding="5,5,5,5" Canvas.Top="369" Width="269" HorizontalAlignment="Center" VerticalAlignment="Top">
-              <StackPanel>
+        <!-- Image Panel -->
+        <Border CornerRadius="0,20,20,0" Background="{DynamicResource PanelBackground}" Padding="5" Canvas.Top="18" HorizontalAlignment="Left" VerticalAlignment="Center" Width="317">
+            <StackPanel/>
+        </Border>
+
+        <!-- Core FN Button -->
+        <Border CornerRadius="0,10,10,0" Background="{DynamicResource PanelBackground}" Padding="5,5,5,5" Canvas.Top="600" HorizontalAlignment="Center" VerticalAlignment="Top" Width="269">
+            <StackPanel>
+                <Button x:Name="CoreFN" Content="Nexus Website" Height="42" BorderBrush="{x:Null}" Margin="5,5,5,5" Foreground="{DynamicResource ButtonForeground}" Background="{DynamicResource ButtonBackground}" MouseEnter="Button_MouseEnter_7" MouseLeave="CoreFN_MouseLeave" Click="CoreFN_Click"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Settings, News, Plugins -->
+        <Border CornerRadius="0,10,10,0" Background="{DynamicResource PanelBackground}" Padding="5,5,5,5" Canvas.Top="379" Width="269" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <StackPanel>
                 <Button x:Name="Settings" Content="Settings" Height="42" BorderBrush="{x:Null}" Margin="5,5,5,5" Foreground="{DynamicResource ButtonForeground}" Background="{DynamicResource ButtonBackground}" MouseEnter="Settings_MouseEnter" MouseLeave="Settings_MouseLeave" Click="Settings_Click"/>
-                  <Button x:Name="News" Content="News" Height="42" BorderBrush="{x:Null}" Margin="5,5,5,5" Click="Button_Click_4" Foreground="{DynamicResource ButtonForeground}" Background="{DynamicResource ButtonBackground}" MouseEnter="Button_MouseEnter_5" MouseLeave="News_MouseLeave"/>
-                  <Button x:Name="Plugins" Content="Plugins" Height="42" BorderBrush="{x:Null}" Margin="5,5,5,5" Foreground="{DynamicResource ButtonForeground}" Background="{DynamicResource ButtonBackground}" MouseEnter="Button_MouseEnter_6" MouseLeave="Plugins_MouseLeave" Click="Plugins_Click"/>
-              </StackPanel>
-          </Border>
-  
-          <!-- Home, Dll, Multiplayer, Mods -->
-          <Border CornerRadius="0,10,10,0" Background="{DynamicResource PanelBackground}" Padding="5,5,5,5" Canvas.Top="162" Width="269" HorizontalAlignment="Center" VerticalAlignment="Top">
-              <StackPanel>
-                  <Button x:Name="Home" Content="Nexus Singleplayer" Height="42" BorderBrush="{x:Null}" Margin="5,5,5,5" Background="{DynamicResource ButtonBackground}" Foreground="{DynamicResource ButtonForeground}" Click="Button_Click_2" MouseEnter="Button_MouseEnter_1" MouseLeave="Home_MouseLeave"/>
-                  <Button x:Name="Dll" Content="Nexus DLL" Height="42" BorderBrush="{x:Null}" Margin="5,5,5,5" Click="Button_Click_1" Background="{DynamicResource ButtonBackground}" Foreground="{DynamicResource ButtonForeground}" MouseEnter="Button_MouseEnter_2" MouseLeave="Dll_MouseLeave"/>
-                  <Button x:Name="Mods" Content="Nexus Mods" Height="42" BorderBrush="{x:Null}" Margin="5,5,5,5" Background="{DynamicResource ButtonBackground}" Foreground="{DynamicResource ButtonForeground}" Click="Button_Click_3" MouseEnter="Button_MouseEnter_4" MouseLeave="Mods_MouseLeave"/>
-              </StackPanel>
-          </Border>
-  
-          <!-- Credits Button -->
-          <Border CornerRadius="0,10,10,0" Background="{DynamicResource PanelBackground}" Padding="5,5,5,5" Canvas.Top="713" Width="269" HorizontalAlignment="Center" VerticalAlignment="Top">
-              <StackPanel>
-                  <Button x:Name="Credits" Content="By AmiraIsAmiraOMG" Height="42" BorderBrush="{x:Null}" Margin="5,5,5,4" Background="{DynamicResource ButtonBackground}" Foreground="{DynamicResource ButtonForeground}" MouseEnter="Button_MouseEnter" MouseLeave="Credits_MouseLeave" Click="Credits_Click"/>
-              </StackPanel>
-          </Border>
-  
-          <Frame x:Name="Frame" Content="Don't Edit Or Else" Height="603" Width="1243" HorizontalAlignment="Center" Canvas.Left="293" VerticalAlignment="Center" Canvas.Top="162" Navigated="Frame_Navigated" FontSize="48" NavigationUIVisibility="Hidden"/>
-  
-          <Border CornerRadius="10,10,10,10" Padding="5,5,5,5" Height="100" Canvas.Left="22" Canvas.Top="24" Width="1527" HorizontalAlignment="Center" VerticalAlignment="Top">
-              <Border.Background>
-                  <ImageBrush ImageSource="/Pages/wp6448051-fornite-map-wallpapers.png" Stretch="UniformToFill" TileMode="FlipX"/>
-              </Border.Background>
-              <Canvas>
-                  <Label Content="Welcome To" FontSize="56" Foreground="{DynamicResource HeaderTextColor}" HorizontalAlignment="Center" Height="78" Canvas.Left="462" VerticalAlignment="Top" Width="334" FontWeight="Bold" FontStyle="Italic" Canvas.Top="6"/>
-                  <Label Content="Nexus 2.0" FontSize="56" Foreground="{DynamicResource HeaderTextColor}" Height="78" Canvas.Left="808" Width="328" HorizontalAlignment="Center" VerticalAlignment="Top" FontWeight="Bold" FontStyle="Italic" Canvas.Top="6"/>
-              </Canvas>
-          </Border>
-      </Canvas>
-        </:TransitionContainer >
+                <Button x:Name="News" Content="News" Height="42" BorderBrush="{x:Null}" Margin="5,5,5,5" Click="Button_Click_4" Foreground="{DynamicResource ButtonForeground}" Background="{DynamicResource ButtonBackground}" MouseEnter="Button_MouseEnter_5" MouseLeave="News_MouseLeave"/>
+                <Button x:Name="Plugins" Content="Plugins" Height="42" BorderBrush="{x:Null}" Margin="5,5,5,5" Foreground="{DynamicResource ButtonForeground}" Background="{DynamicResource ButtonBackground}" MouseEnter="Button_MouseEnter_6" MouseLeave="Plugins_MouseLeave" Click="Plugins_Click"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Home, Dll, Multiplayer, Mods -->
+        <Border CornerRadius="0,10,10,0" Background="{DynamicResource PanelBackground}" Padding="5,5,5,5" Canvas.Top="162" Width="269" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <StackPanel>
+                <Button x:Name="Home" Content="Nexus Singleplayer" Height="42" BorderBrush="{x:Null}" Margin="5,5,5,5" Background="{DynamicResource ButtonBackground}" Foreground="{DynamicResource ButtonForeground}" Click="Button_Click_2" MouseEnter="Button_MouseEnter_1" MouseLeave="Home_MouseLeave"/>
+                <Button x:Name="Dll" Content="Nexus DLL" Height="42" BorderBrush="{x:Null}" Margin="5,5,5,5" Click="Button_Click_1" Background="{DynamicResource ButtonBackground}" Foreground="{DynamicResource ButtonForeground}" MouseEnter="Button_MouseEnter_2" MouseLeave="Dll_MouseLeave"/>
+                <Button x:Name="Mods" Content="Nexus Mods" Height="42" BorderBrush="{x:Null}" Margin="5,5,5,5" Background="{DynamicResource ButtonBackground}" Foreground="{DynamicResource ButtonForeground}" Click="Button_Click_3" MouseEnter="Button_MouseEnter_4" MouseLeave="Mods_MouseLeave"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Credits Button -->
+        <Border CornerRadius="0,10,10,0" Background="{DynamicResource PanelBackground}" Padding="5,5,5,5" Canvas.Top="713" Width="269" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <StackPanel>
+                <Button x:Name="Credits" Content="By AmiraIsAmiraOMG" Height="42" BorderBrush="{x:Null}" Margin="5,5,5,4" Background="{DynamicResource ButtonBackground}" Foreground="{DynamicResource ButtonForeground}" MouseEnter="Button_MouseEnter" MouseLeave="Credits_MouseLeave" Click="Credits_Click"/>
+            </StackPanel>
+        </Border>
+
+        <Frame x:Name="Frame" Content="Don't Edit Or Else" Height="603" Width="1243" HorizontalAlignment="Center" Canvas.Left="293" VerticalAlignment="Center" Canvas.Top="162" Navigated="Frame_Navigated" FontSize="48" NavigationUIVisibility="Hidden"/>
+
+        <Border CornerRadius="10,10,10,10" Padding="5,5,5,5" Height="100" Canvas.Left="22" Canvas.Top="24" Width="1527" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <Border.Background>
+                <ImageBrush ImageSource="/Pages/wp6448051-fornite-map-wallpapers.png" Stretch="UniformToFill" TileMode="FlipX"/>
+            </Border.Background>
+            <Canvas>
+                <Label Content="Welcome To" FontSize="56" Foreground="{DynamicResource HeaderTextColor}" HorizontalAlignment="Center" Height="78" Canvas.Left="462" VerticalAlignment="Top" Width="334" FontWeight="Bold" FontStyle="Italic" Canvas.Top="6"/>
+                <Label Content="Nexus 2.0" FontSize="56" Foreground="{DynamicResource HeaderTextColor}" Height="78" Canvas.Left="808" Width="328" HorizontalAlignment="Center" VerticalAlignment="Top" FontWeight="Bold" FontStyle="Italic" Canvas.Top="6"/>
+            </Canvas>
+        </Border>
+    </Canvas>
 </Window>
